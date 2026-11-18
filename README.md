@@ -4,7 +4,7 @@ My first JavaScript project, built to put my JavaScript learning into practice.
 
 I know that in 2026, AI can generate a game like this in minutes. But I believe understanding the fundamentals behind the code matters more than the finished result. This project is one of my first steps toward that understanding and toward building a developer mindset.
 
-**[View Live Demo](https://your-link-here)**
+**[View Live Demo](https://ammucodes.github.io/rock-paper-scissors/)**
 
 ![Screenshot](images/screenshot.png)
 
